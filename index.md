@@ -10,6 +10,7 @@ The BAF UI style guide is based on SAP Fiori 3.0 and it includes all the resourc
 -	Elements concentrates on generic UI rules and controls.
 -	
 **The benefit**
+
 Having this style guide has the following benefits:
 -	Making the overall product user experience consistent
 -	Significantly lower the development cost for developers and designers
@@ -25,6 +26,7 @@ Intro
 Design stencils are ready-to-use, high-fidelity drafts of BAF UI components. You can use them to visualize SME products and to get a realistic impression of your final design.
 
 **Content**
+
 The BAF UI design stencils include:
 •	Patterns for foundation topics, such as shadow levels, grid, colors, and more
 •	Page types (floorplans)
