@@ -1,6 +1,7 @@
 # Foundation
 
 **About BAF UI style guide**
+
 The BAF UI style guide is based on SAP Fiori 3.0 and it includes all the resources needed to create an overall consistent experience when designing for SME products. It describes how the user interfaces for SAP SME products are constructed, the interaction logic between pages and the essential rules that shapes SME product. 
 
 **Structure**
@@ -9,7 +10,7 @@ The BAF UI style guide is based on SAP Fiori 3.0 and it includes all the resourc
 -	Layouts introduces the frequently-used page structure that solve user's most-occurring problems;
 -	Floorplans and Patterns explains the pattern-based design concept and the hierarchy of UI patterns;
 -	Elements concentrates on generic UI rules and controls.
--	
+
 **The benefit**
 
 Having this style guide has the following benefits:
