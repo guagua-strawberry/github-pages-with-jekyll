@@ -10,7 +10,7 @@ The BAF UI style guide is based on SAP Fiori 3.0 and it includes all the resourc
 -	Floorplans and Patterns explains the pattern-based design concept and the hierarchy of UI patterns;
 -	Elements concentrates on generic UI rules and controls.
 -	
-## The benefits ##
+##The benefit##
 Having this style guide has the following benefits:
 -	Making the overall product user experience consistent
 -	Significantly lower the development cost for developers and designers
